@@ -17,3 +17,8 @@ Zoom 14 contains all images as points.
 ```bash
 $ vt-mapillary 14/4745/5867 > results.geojson
 ```
+
+## Helpful resources
+
+- https://github.com/mapbox/vector-tile-js
+- https://www.mapillary.com/developer/tiles-documentation

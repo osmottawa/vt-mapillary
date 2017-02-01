@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const VectorTile = require('vector-tile').VectorTile
 const Protobuf = require('pbf')
 const axios = require('axios')

@@ -1,6 +1,6 @@
 # vt-mapillary
 
-| Converts Mapillary Vector Tile to GeoJSON
+> Converts Mapillary Vector Tile to GeoJSON
 
 ## Install
 
